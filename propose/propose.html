@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <script src="./propose.js"></script>
+    <link rel="stylesheet" type="text/css" href="propose.css"/>
+</head>
+
+<body onload="body_onload()">
+
+<div id="content", class="card">
+    <p id="debug"></p>
+
+    <p id="welcome"><h1>
+    <div id="dialog">
+        <p id="verbose" style="display: none"></p>
+        <p id="question"></p>
+        <div id="confirm_button" style="display: none">
+            <input id="confirm_button_ok" type="button" class="button" onclick="click_confirm(true)" value="ok">
+            <input id="confirm_button_tk" type="button" class="button" onclick="click_confirm(false)" value="i will think">
+        </div>
+    </div>
+</div>
+</body>
+
+</html>
