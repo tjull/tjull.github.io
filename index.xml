@@ -6,10 +6,23 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Sep 2018 23:03:30 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 14:23:07 +0800</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Wedding</title>
+      <link>http://example.org/posts/the-wedding/</link>
+      <pubDate>Tue, 01 Jan 2019 14:23:07 +0800</pubDate>
+      
+      <guid>http://example.org/posts/the-wedding/</guid>
+      <description>从石家庄到乌鲁木齐，2000多公里，感谢家人的付出和陪伴 
+婚礼进行时 
+返回SJZ 
+all people 
+乌鲁木齐9点的晚霞 -</description>
+    </item>
     
     <item>
       <title>Marry Me</title>
